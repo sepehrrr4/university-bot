@@ -1,0 +1,32 @@
+# -----------------------------------------------------
+# Core Bot & Data Handling
+# -----------------------------------------------------
+python-telegram-bot
+pandas
+
+# -----------------------------------------------------
+# Web Scraping Libraries
+# -----------------------------------------------------
+# Core browser automation
+selenium
+
+# Used for avoiding bot detection
+undetected-chromedriver
+
+# Manages the Chrome driver executable
+webdriver-manager
+
+# Extends Selenium to capture network requests
+selenium-wire
+
+# For parsing HTML
+beautifulsoup4
+
+# For making HTTP requests
+requests
+
+# -----------------------------------------------------
+# Utilities
+# -----------------------------------------------------
+# For reading the .env file
+python-dotenv
