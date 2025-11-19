@@ -6,6 +6,8 @@
 > **Live Demo:** [@University_infobot](https://t.me/University_infobot)
 
 This project is a collection of Python scripts that scrape data from various sources (like US News and CSRankings) to build a comprehensive database of computer science programs. This data is then made available through an interactive Telegram bot.
+<img width="961" height="1109" alt="image" src="https://github.com/user-attachments/assets/4f31fef6-6c42-4b1c-b6a6-8487911f4745" />
+
 
 ## 🚀 Features
 
@@ -113,3 +115,4 @@ The bot will load the CSV into memory and be ready to accept commands.
 
 ```
 ```
+
