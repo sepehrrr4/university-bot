@@ -6,7 +6,7 @@
 > **Live Demo:** [@University_infobot](https://t.me/University_infobot)
 
 This project is a collection of Python scripts that scrape data from various sources (like US News and CSRankings) to build a comprehensive database of computer science programs. This data is then made available through an interactive Telegram bot.
-<img width="961" height="1109" alt="image" src="https://github.com/user-attachments/assets/4f31fef6-6c42-4b1c-b6a6-8487911f4745" />
+
 
 
 ## 🚀 Features
@@ -25,6 +25,8 @@ This project is a collection of Python scripts that scrape data from various sou
 git clone [[https://github.com/sepehrrr4/university-bot](https://github.com/sepehrrr4/university-bot)]
 cd [university-bot]
 ````
+<img width="761" height="909" alt="image" src="https://github.com/user-attachments/assets/c49227e4-3e4a-46ea-ad84-c2c636d16e47" />
+
 
 ### 2\. Create a Virtual Environment
 
@@ -115,4 +117,5 @@ The bot will load the CSV into memory and be ready to accept commands.
 
 ```
 ```
+
 
